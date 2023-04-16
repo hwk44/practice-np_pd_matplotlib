@@ -1,7 +1,7 @@
 # practice-np_pd_matplotlib
-> numpy, pandas, matplotlib 튜토리얼 연습한 저장소입니다.
+> `numpy, pandas, matplotlib` 튜토리얼 연습한 저장소입니다.
 
-## 참고 URL
+## 튜토리얼 URL
 numpy, matplotlib
 <br>
 <https://scipy-lectures.org/intro/numpy/index.html>
