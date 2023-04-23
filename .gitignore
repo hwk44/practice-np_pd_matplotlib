@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,pycharm,windows,macos,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python,pycharm,windows,macos,linux
 
+## 폴더 무시
+# ml_notes/
+
 ### Linux ###
 *~
 
