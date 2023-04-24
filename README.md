@@ -9,6 +9,11 @@ numpy, matplotlib
 pandas
 <br>
 <https://pandas.pydata.org/docs/user_guide/10min.html>
+
+## 참고 자료
+<https://github.com/rickiepark/intro_ml_with_python_2nd_revised>
+
+<https://nadocoding.tistory.com/92>
 <br/>
 
 <hr>
@@ -60,6 +65,12 @@ $ (venv) jupyter-lab # 주피터 노트북 실행
     K-최근접 이웃 알고리즘은  이해하기는 쉬우므로 더 복잡한 알고리즘을 적용하기 전에 시도해볼 수 있지만
     많은 특성을 가지는 데이터셋에서 잘 작동하지 예측이 느림
 
+### R squared
+    SST (Total Sum of Squares)
+    - sum( (y - mean(y))**2 )  => (실제값 - 평균값(예측값의 평균값))**2 의 합  
+    SSR (Residual Sum of Squares)
+    - sum( (y - predict(y))**2) => (실제값 - 예측값)**2 의 합
 
-
+    결정계수 = 1 - SSR/SST
+        0~1 의 값을 가지고 1에 가까울수록 독립변수와 종속변수 간의 상관관계가 높다
     
